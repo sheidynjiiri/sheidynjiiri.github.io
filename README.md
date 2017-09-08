@@ -13,7 +13,7 @@ Medium| [Medium](https://medium.com/)
 LinkedIn | [LinkedIn](https://www.linkedin.com/in/gathigianjiiri/)
 Twitter | [Twitter](https://twitter.com/weakwokesistuh)
 
-Here's a pic of me
+Here's a pic of me @
 MINC : ![Me](https://cdn-images-1.medium.com/max/800/1*wtmA8EjdkcFFB5bw1Q5xYg.jpeg)
 
 
