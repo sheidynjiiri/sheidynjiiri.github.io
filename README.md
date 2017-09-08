@@ -1,4 +1,4 @@
-Sometimes you want numbered lists:simple_smile::
+Sometimes you want numbered lists: 
 
 1. One
 2. Two
@@ -15,3 +15,5 @@ Alternatively,
 - And if you have sub points, put two spaces before the dash or star:
   - Like this
   - And this
+
+  :simple_smile:
