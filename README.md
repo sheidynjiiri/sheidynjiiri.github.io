@@ -16,4 +16,4 @@ Alternatively,
   - Like this
   - And this
 
-  :simple_smile:
+ :laughing:
