@@ -1,4 +1,4 @@
-# Njiiri's world
+# Njiiri's World
 Some of my fave artists are: 
 
 1. SZA
