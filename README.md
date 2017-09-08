@@ -1,19 +1,22 @@
-Sometimes you want numbered lists: 
+# Njiiri's world
+Some of my fave artists are: 
 
-1. One
-2. Two
-3. Three
+1. SZA
+2. Jhene Aiko
+3. SIA
 
-Sometimes you want bullet points:
+Here's how to reach me online
 
-* Start a line with a star
-* Profit!
+Platform | Link
+------------ | -------------
+Medium| [Medium](https://medium.com/)
+LinkedIn | [LinkedIn](https://www.linkedin.com/in/gathigianjiiri/)
+Twitter | [Twitter](https://twitter.com/weakwokesistuh)
 
-Alternatively,
+Here's a pic of me
+Format: ![Me](https://cdn-images-1.medium.com/max/800/1*wtmA8EjdkcFFB5bw1Q5xYg.jpeg)
 
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
+
+Also, I'm hella hillarious..
 
  :laughing:
